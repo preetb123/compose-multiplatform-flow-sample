@@ -12,3 +12,11 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
+This app demonstrates use of Kotlin Coroutines & flow for asynchronous updates processing and list mutations.
+App works on both Android & iOS with single codebase
+Code can be found here composeApp/src/commonMain/kotlin/App.kt
+
+https://github.com/preetb123/compose-multiplatform-flow-sample/assets/4496555/db3cf645-2b09-48ae-a88e-1be3d7c12475
+
